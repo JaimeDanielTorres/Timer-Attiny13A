@@ -8,3 +8,5 @@ El circuito implementado cuenta con 2 botones, un "Enter" y un "Select" con los 
 Se cuenta con 2 led indicadores, al ingresar los horarios estos confirmaran mediante determinada cantidad de intermitencias las horas y minutos.
 
 La resolucion es de 10min.
+
+El circuito esta en espejo para CNC.
